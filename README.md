@@ -5,6 +5,7 @@ I'm **Cody Cardinal** (He/Him/His) – A Canadian Technical Customer Success Lea
 - **BlueSky:** [bsky.app/profile/codycardinal.dev](https://bsky.app/profile/codycardinal.dev)
 - **X:** [x.com/codesxcodes](https://x.com/codesxcodes)
 - **LinkedIn:** [linkedin.com/in/cody-cardinal](https://www.linkedin.com/in/cody-cardinal-896b661b/)
+- **Resume:** [Cloud Security Engineering Resume](https://docs.google.com/document/d/1kujzCIxQZOML1TjpfnIakKuj7SmY6OazBOlE7zUUCbA/edit?usp=sharing)
 
 
 ## 👨🏻‍💻 What I do
