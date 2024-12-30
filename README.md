@@ -31,4 +31,4 @@ Today I mostly learn, and build an web apps – front end, back end, and full-st
 
 ### 🤔 I’m looking for help with
 
-Feedback for [BrainGains](https://github.com/CodyCardinal/BrainGains)
+- Feedback for [BrainGains](https://github.com/CodyCardinal/BrainGains)
