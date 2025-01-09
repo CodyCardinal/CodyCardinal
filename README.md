@@ -6,7 +6,7 @@ I'm **Cody Cardinal** (He/Him/His) – A Canadian Technical Customer Success Lea
 - **X:** [x.com/codesxcodes](https://x.com/codesxcodes)
 - **LinkedIn:** [linkedin.com/in/cody-cardinal](https://www.linkedin.com/in/cody-cardinal-896b661b/)
 - **Portfolio:** [https://codycardinal.dev](https://codycardinal.dev)
-
+- **Corporate Github** [https://github.com/ccardina](https://github.com/ccardina)
 
 ## 👨🏻‍💻 What I do
 
@@ -21,7 +21,7 @@ Today I mostly learn, and build an web apps – front end, back end, and full-st
 
 ## 🔭 I’m currently working on
 
-- 1+ Years full time developing a Cisco Internal PHP Full-stack web app, automating critical work for our CX workforce
+- 1+ Years full time developing a Cisco Internal PHP Full-stack web app, automating critical work for our CX workforce.
 - BrainGains, a local Python and Flask App that supports learners
 
 ## 🌱 I’m currently learning
