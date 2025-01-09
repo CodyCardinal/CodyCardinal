@@ -21,7 +21,7 @@ Today I mostly learn, and build an web apps – front end, back end, and full-st
 
 ## 🔭 I’m currently working on
 
-- 1+ Years full time developing a Cisco Internal PHP Full-stack web app, automating critical work for our CX workforce.
+- 1+ Years full time developing a [Cisco Internal](https://github.com/ccardina) PHP Full-stack web app, automating critical work for our CX workforce.
 - BrainGains, a local Python and Flask App that supports learners
 
 ## 🌱 I’m currently learning
