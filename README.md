@@ -21,7 +21,6 @@ Today I mostly learn, and build an web apps – front end, back end, and full-st
 
 ## 🔭 I’m currently working on
 
-- Cisco Cloud Security Business Group - Software Engineering Tour of Duty with a full stack web development team, helping build Cisco Umbrella and Cisco Secure Access.
 - Since 2023, Full time developing a [Cisco Internal](https://github.com/ccardina) PHP Full-stack web app, automating critical work for our CX workforce.
 - BrainGains, a local Python and Flask App that supports learners
 
@@ -29,6 +28,10 @@ Today I mostly learn, and build an web apps – front end, back end, and full-st
 
 - React for dynamic front end apps
 - Algorithms and Data Structures
+
+## ✅ I recently completed
+
+- Cisco Cloud Security Business Group -> A Software Engineering Tour of Duty with a full stack web development team, helping build Cisco Umbrella and Cisco Secure Access. Connected my experience working with customers to build feature requests instead of submit them!
 
 ### 🤔 I’m looking for help with
 
